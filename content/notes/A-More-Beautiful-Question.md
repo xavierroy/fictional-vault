@@ -3,6 +3,7 @@ title: "A More Beautiful Question"
 tags: [book/notes, book/read]
 type: book
 ---
+[🏠](../_index.md) > [📚](../moc/books.md)
 # A More Beautiful Question by Warren Berger
 
 ## Summary
