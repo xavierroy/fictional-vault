@@ -1,5 +1,5 @@
 ---
-title: "Quartz Documentation"
+title: "A Fictional Vault"
 ---
 
 ## Setup
