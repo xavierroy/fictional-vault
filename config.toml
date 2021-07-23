@@ -1,6 +1,5 @@
-baseURL = "/"
+baseURL = "https://xavierroy.github.io/fictional-vault/"
 languageCode = "en-us"
-# googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
