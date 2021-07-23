@@ -17,7 +17,8 @@ Understanding how our environment triggers us to act positively or negatively wi
 	- You can make an **Hourly Questions** also if you are looking for a short-term benefit.
 - The **AIWATT** question can help us overcome the triggers in our life.
 	- *Am I willing, at this time, to make the investment required to make a positive difference on this topic?*
-	- We are superior planners and inferior doers. So we need a coach in our lives to bridge the gap.
+	- We are *superior planners* and *inferior doer*s. So we need a *coach* in our lives to bridge the gap.
+
 ---
 
 
