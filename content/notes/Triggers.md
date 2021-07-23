@@ -1,9 +1,10 @@
 ---
 title: "Triggers by Marshall Goldsmith"
+tags: [book/notes, book/read]
+type: book
 ---
 
 # Triggers by Marshall Goldsmith
----
 
 ## Summary
 
