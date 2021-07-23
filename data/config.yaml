@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: A Fictional Vault
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  This is a fictional vault or a vault about fiction.
 page_title:
-  Quartz Example Page
+  Home 
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/xavierroy
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/xavierroy
