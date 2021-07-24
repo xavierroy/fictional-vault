@@ -2,4 +2,4 @@
 title: "Quotes"
 ---
 
-- [fate and choice](../quotes/fate-and-choice.md)
+- [fate-and-choice](quotes/fate-and-choice.md)
