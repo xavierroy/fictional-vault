@@ -5,8 +5,6 @@ type: book
 ---
 [📚](/moc/books.md)
 
-# Triggers by Marshall Goldsmith
-
 ## Summary
 
 Understanding how our environment triggers us to act positively or negatively will help us to change and ensure our habits stick.
@@ -26,3 +24,4 @@ Understanding how our environment triggers us to act positively or negatively wi
 ## Quotes
 
 ![fate-and-choice](quotes/fate-and-choice.md)
+

@@ -5,8 +5,6 @@ type: book
 ---
 [📚](/moc/books.md)
 
-# A More Beautiful Question by Warren Berger
-
 ## Summary
 
 You don't learn unless you question. Asking the right questions, we can be innovative and creative and be successful in our endeavors. 
