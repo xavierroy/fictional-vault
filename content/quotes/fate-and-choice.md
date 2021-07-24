@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "fate and choice"
 type: quote
 ---
 [💬](moc/quotes.md)
