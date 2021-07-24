@@ -3,7 +3,7 @@ title: "Triggers by Marshall Goldsmith"
 tags: [book/notes, book/read]
 type: book
 ---
-
+[📚](/moc/books.md)
 # Triggers by Marshall Goldsmith
 
 ## Summary
