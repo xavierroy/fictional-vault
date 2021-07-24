@@ -24,4 +24,4 @@ Understanding how our environment triggers us to act positively or negatively wi
 
 ## Quotes
 
-![fate-and-choice](fate-and-choice.md)
+![fate-and-choice](../quotes/fate-and-choice.md)
