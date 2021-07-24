@@ -21,7 +21,5 @@ Understanding how our environment triggers us to act positively or negatively wi
 
 ---
 
-## Quotes
-
-![fate-and-choice](quotes/fate-and-choice.md)
-
+### Quotes 💬
+- [fate-and-choice](quotes/fate-and-choice.md)
