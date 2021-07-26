@@ -46,3 +46,11 @@ As I read this book, I started coming up with a set of questions that I want to 
   - We've heard the standard question: *Do you have any questions for us?* from the interview panel. Some jump at it and some don't. This is an interesting question to me as I am involved in interviewing people for my team. How do I test if people have the ability to question? How do I draw out that ability?
 
 This book reminded me of Randall Munroe's [What If](https://what-if.xkcd.com/book/), a  book that answers absurd hypothetical scientific answers. One question in that book was: *What would happen if you tried to fly a normal Earth airplane above different solar system bodies?* Well now we know the answer to that with [Ingenuity](https://mars.nasa.gov/technology/helicopter/). 🙂
+
+
+---
+
+### Quotes 💬
+
+- [you-don't-learn](quotes/you-don't-learn.md)
+- [climb-the-mountain](quotes/climb-the-mountain.md)
