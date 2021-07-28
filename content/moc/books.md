@@ -3,7 +3,7 @@ title: "Books"
 ---
 
 ```dataview
-LIST title
+TABLE title as "Book"
 WHERE type = "book"
 SORT ASC
 ```
