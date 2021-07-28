@@ -2,5 +2,6 @@
 title: "Labyrinth"
 type: book
 ---
+# Labyrinth
 
-author: [[Kate Mosse]]
+author: [Kate_Mosse](authors/Kate_Mosse.md)

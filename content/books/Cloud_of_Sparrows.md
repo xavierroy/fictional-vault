@@ -4,4 +4,4 @@ type: book
 ---
 
 
-Author: [[Takashi Matsuoka]]
+Author: [Takashi Matsuoka](authors/Takashi_Matsuoka.md)

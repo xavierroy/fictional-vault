@@ -1,5 +1,5 @@
 ---
-title: "Kate_Mosse"
+title: "Kate Mosse"
 type: author
 ---
 
