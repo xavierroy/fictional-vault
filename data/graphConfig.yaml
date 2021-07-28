@@ -1,5 +1,7 @@
-enableLegend: true
+enableLegend: false
 enableDrag: true
 enableZoom: true
 paths:
-  - /moc: "#4388cc"
+  - /moc: "#FF6347" #Tomato
+  - /book: "#DEB887" #BurlyWood
+  - /author: "#CD5C5C"  #IndianRed
