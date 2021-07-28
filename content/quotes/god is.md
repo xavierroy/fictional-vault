@@ -1,0 +1,8 @@
+
+title: "god is"
+date: 2005-12-20T16:51:49+05:30
+authors: [[Umberto Eco]]
+book: [[Baudolino]]
+tags: #god
+
+God is the Unique, and he is so perfect that he does not resemble any of the things that exist or any of the things that do not; you cannot describe him using your human intelligence, as if he were someone who becomes angry if you are bad or worries about you out of goodness, someone who has a mouth, ears, face, wings, or that is spirit, father or son, not even of himself. Of the Unique you cannot say he is or is not, he embraces all but is nothing; you can name him only through dissimilarity, because it is futile to call him Goodness, Beauty, Wisdom, Amiability, Power, Justice, it would be like calling him Bear, Panther, Serpent, Dragon, or Gryphon, because whatever you say of him you will never express him. God is not body, is not figure, is not form; he does not see, does not hear, does not know disorder and perturbation; he is not soul, intelligence, imagination, opinion, thought, word, number, order, size; he is not equality and is not inequality, is not time and is not eternity; he is a will without purpose. Try to understand, Baudolino: God is a lamp without flame, a flame without fire, a fire without heat, a dark light, a silent rumble, a blind flash, a luminous soot, a ray of his own darkness, a circle that expands concentrating on its own center, a solitary simplicity; he is&#8230;is&#8230;- She paused, seeking an example that would convince them both, she the teacher and he the pupil. "He is a space that is not, in which you and I are the same thing, as we are today in this time that doesn't flow.
