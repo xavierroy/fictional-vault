@@ -2,8 +2,5 @@
 title: "Books"
 ---
 
-```dataview
-TABLE title as "Book"
-WHERE type = "book"
-SORT ASC
-```
+- [A More Beautiful Question](books/A_More_Beautiful_Question.md) by 
+- [Triggers](books/Triggers.md)
