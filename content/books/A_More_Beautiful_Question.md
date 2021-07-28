@@ -52,5 +52,5 @@ This book reminded me of Randall Munroe's [What If](https://what-if.xkcd.com/boo
 
 ### Quotes 💬
 
-- [you-don't-learn](quotes/you-don't-learn.md)
+- [you-don't-learn](quotes/you-dont-learn.md)
 - [climb-the-mountain](quotes/climb-the-mountain.md)
