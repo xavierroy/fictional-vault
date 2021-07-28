@@ -1,7 +1,7 @@
-name: A Fictional Vault
+name: Marginalia
 enableToc: false
 description:
-  This is a fictional vault or a vault about fiction.
+  A collection of notes on books I read and some highlights.
 page_title:
   Home 
 links:
@@ -9,3 +9,5 @@ links:
     link: https://twitter.com/xavierroy
   - link_name: Github
     link: https://github.com/xavierroy
+  - link: My Website
+    link_name: https://xavierroy.com  
