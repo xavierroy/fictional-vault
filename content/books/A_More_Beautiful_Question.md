@@ -30,7 +30,7 @@ To get us in that mode on inquiry, he describes a three-part *Why–What If–Ho
 - The **What If?** question allows us to imagine possibilities.
 - The **How?** question allows figuring out and making one or more of the possibilities a reality.
 
-I felt that this model makes perfect sense to me and questioning or contextual inquiry is at the core of the [[Design Thinking]] process. 
+I felt that this model makes perfect sense to me and questioning or contextual inquiry is at the core of the Design Thinking process. 
 
 And what is a book about questions without some questions? Berger has peppered the chapters with around 370 questions and has collected them all as part of a Question Index which I felt was a great idea. *If facts are entitled to an index, then why not questions?*
 
@@ -52,5 +52,5 @@ This book reminded me of Randall Munroe's [What If](https://what-if.xkcd.com/boo
 
 ### Quotes 💬
 
-- [you-don't-learn](quotes/you-dont-learn.md)
-- [climb-the-mountain](quotes/climb-the-mountain.md)
+- [you don't learn](quotes/you-dont-learn.md)
+- [climb the mountain](quotes/climb-the-mountain.md)
