@@ -9,3 +9,5 @@ title: "Home"
 
 - [Books](moc/books.md)
 - [Quotes](moc/quotes.md)
+- [index](campaigns/Journeys%20Beyond%20Dusk/index.md)
+
